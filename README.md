@@ -59,7 +59,7 @@ The public feature cube deliberately omits latitude and longitude. If the author
 
 ## Citation and DOI
 
-Complete `CITATION_TEMPLATE.cff` and replace the repository/DOI placeholders after the manuscript and data package are deposited.
+[![DOI](https://zenodo.org/badge/1423092588.svg)](https://doi.org/10.5281/zenodo.23433992)
 
 ## License
 
