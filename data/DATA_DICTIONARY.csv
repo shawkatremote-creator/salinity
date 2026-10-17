@@ -1,0 +1,215 @@
+column,category,dtype,missing_fraction
+Year,metadata / field context,int64,0.0
+PSP,metadata / field context,int64,0.0
+Salinity_Zone,metadata / field context,object,0.0
+Salinity_PPT,metadata / field context,float64,0.0
+Tree_Count_Total,field biodiversity response,int64,0.0
+Tree_Species_Richness,field biodiversity response,int64,0.0
+Shannon_H,field biodiversity response,float64,0.0
+Simpson_1-D,field biodiversity response,float64,0.0
+Use_for_species_model,metadata / field context,bool,0.0
+Species_Model_Status,metadata / field context,object,0.0
+Spatial_Block,metadata / field context,int64,0.0
+Sundri_Tree_Count,field adult abundance,int64,0.0
+Sundri_Prop,field relative abundance,float64,0.19256756756756757
+Gewa_Tree_Count,field adult abundance,int64,0.0
+Gewa_Prop,field relative abundance,float64,0.19256756756756757
+Goran_Tree_Count,field adult abundance,int64,0.0
+Goran_Prop,field relative abundance,float64,0.19256756756756757
+Passur_Tree_Count,field adult abundance,int64,0.0
+Passur_Prop,field relative abundance,float64,0.19256756756756757
+Kankra_Tree_Count,field adult abundance,int64,0.0
+Kankra_Prop,field relative abundance,float64,0.19256756756756757
+Keora_Tree_Count,field adult abundance,int64,0.0
+Keora_Prop,field relative abundance,float64,0.19256756756756757
+Baen_Tree_Count,field adult abundance,int64,0.0
+Baen_Prop,field relative abundance,float64,0.19256756756756757
+Singra_Tree_Count,field adult abundance,int64,0.0
+Singra_Prop,field relative abundance,float64,0.19256756756756757
+Khalshi_Tree_Count,field adult abundance,int64,0.0
+Khalshi_Prop,field relative abundance,float64,0.19256756756756757
+Amur_Tree_Count,field adult abundance,int64,0.0
+Amur_Prop,field relative abundance,float64,0.19256756756756757
+OPT_Blue_center,EO predictor / derived feature,float64,0.7297297297297297
+OPT_Blue_mean,EO predictor / derived feature,float64,0.7297297297297297
+OPT_Blue_std,EO predictor / derived feature,float64,0.7297297297297297
+OPT_Blue_p10,EO predictor / derived feature,float64,0.7297297297297297
+OPT_Blue_p90,EO predictor / derived feature,float64,0.7297297297297297
+OPT_Blue_entropy,EO predictor / derived feature,float64,0.7297297297297297
+OPT_Green_center,EO predictor / derived feature,float64,0.7297297297297297
+OPT_Green_mean,EO predictor / derived feature,float64,0.7297297297297297
+OPT_Green_std,EO predictor / derived feature,float64,0.7297297297297297
+OPT_Green_p10,EO predictor / derived feature,float64,0.7297297297297297
+OPT_Green_p90,EO predictor / derived feature,float64,0.7297297297297297
+OPT_Green_entropy,EO predictor / derived feature,float64,0.7297297297297297
+OPT_Red_center,EO predictor / derived feature,float64,0.7297297297297297
+OPT_Red_mean,EO predictor / derived feature,float64,0.7297297297297297
+OPT_Red_std,EO predictor / derived feature,float64,0.7297297297297297
+OPT_Red_p10,EO predictor / derived feature,float64,0.7297297297297297
+OPT_Red_p90,EO predictor / derived feature,float64,0.7297297297297297
+OPT_Red_entropy,EO predictor / derived feature,float64,0.7297297297297297
+OPT_NIR_center,EO predictor / derived feature,float64,0.7297297297297297
+OPT_NIR_mean,EO predictor / derived feature,float64,0.7297297297297297
+OPT_NIR_std,EO predictor / derived feature,float64,0.7297297297297297
+OPT_NIR_p10,EO predictor / derived feature,float64,0.7297297297297297
+OPT_NIR_p90,EO predictor / derived feature,float64,0.7297297297297297
+OPT_NIR_entropy,EO predictor / derived feature,float64,0.7297297297297297
+OPT_SWIR1_center,EO predictor / derived feature,float64,0.14527027027027026
+OPT_SWIR1_mean,EO predictor / derived feature,float64,0.14527027027027026
+OPT_SWIR1_std,EO predictor / derived feature,float64,0.14527027027027026
+OPT_SWIR1_p10,EO predictor / derived feature,float64,0.14527027027027026
+OPT_SWIR1_p90,EO predictor / derived feature,float64,0.14527027027027026
+OPT_SWIR1_entropy,EO predictor / derived feature,float64,0.14527027027027026
+OPT_SWIR2_center,EO predictor / derived feature,float64,0.14527027027027026
+OPT_SWIR2_mean,EO predictor / derived feature,float64,0.14527027027027026
+OPT_SWIR2_std,EO predictor / derived feature,float64,0.14527027027027026
+OPT_SWIR2_p10,EO predictor / derived feature,float64,0.14527027027027026
+OPT_SWIR2_p90,EO predictor / derived feature,float64,0.14527027027027026
+OPT_SWIR2_entropy,EO predictor / derived feature,float64,0.14527027027027026
+OPT_NDVI,EO predictor / derived feature,float64,0.7297297297297297
+OPT_NDMI,EO predictor / derived feature,float64,0.14527027027027026
+OPT_NBR,EO predictor / derived feature,float64,0.14527027027027026
+OPT_MNDWI,EO predictor / derived feature,float64,0.7297297297297297
+OPT_EVI,EO predictor / derived feature,float64,0.7297297297297297
+OPT_SAVI,EO predictor / derived feature,float64,0.7297297297297297
+OPT_GNDVI,EO predictor / derived feature,float64,0.7297297297297297
+H_NIR,EO predictor / derived feature,float64,0.38175675675675674
+H_SWIR1,EO predictor / derived feature,float64,0.38175675675675674
+H_SWIR2,EO predictor / derived feature,float64,0.38175675675675674
+H_NDMI,EO predictor / derived feature,float64,0.38175675675675674
+H_NBR,EO predictor / derived feature,float64,0.38175675675675674
+H_NIR_std,EO predictor / derived feature,float64,0.38175675675675674
+H_SWIR1_std,EO predictor / derived feature,float64,0.38175675675675674
+H_SWIR2_std,EO predictor / derived feature,float64,0.38175675675675674
+H_NIR_entropy,EO predictor / derived feature,float64,0.38175675675675674
+H_SWIR1_entropy,EO predictor / derived feature,float64,0.38175675675675674
+H_Red,EO predictor / derived feature,float64,0.5945945945945946
+H_Green,EO predictor / derived feature,float64,0.5945945945945946
+H_Blue,EO predictor / derived feature,float64,0.5945945945945946
+SAR_HH_dB_center,EO predictor / derived feature,float64,0.6114864864864865
+SAR_HH_dB_mean,EO predictor / derived feature,float64,0.6114864864864865
+SAR_HH_dB_std,EO predictor / derived feature,float64,0.6114864864864865
+SAR_HH_dB_p10,EO predictor / derived feature,float64,0.6114864864864865
+SAR_HH_dB_p90,EO predictor / derived feature,float64,0.6114864864864865
+SAR_HH_dB_entropy,EO predictor / derived feature,float64,0.6114864864864865
+SAR_HV_dB_center,EO predictor / derived feature,float64,0.6114864864864865
+SAR_HV_dB_mean,EO predictor / derived feature,float64,0.6114864864864865
+SAR_HV_dB_std,EO predictor / derived feature,float64,0.6114864864864865
+SAR_HV_dB_p10,EO predictor / derived feature,float64,0.6114864864864865
+SAR_HV_dB_p90,EO predictor / derived feature,float64,0.6114864864864865
+SAR_HV_dB_entropy,EO predictor / derived feature,float64,0.6114864864864865
+SAR_HH,EO predictor / derived feature,float64,0.6114864864864865
+SAR_HV,EO predictor / derived feature,float64,0.6114864864864865
+SAR_HHminusHV,EO predictor / derived feature,float64,0.6114864864864865
+SAR_HH_std,EO predictor / derived feature,float64,0.6114864864864865
+SAR_HV_std,EO predictor / derived feature,float64,0.6114864864864865
+SAR_HH_entropy,EO predictor / derived feature,float64,0.6114864864864865
+SAR_HV_entropy,EO predictor / derived feature,float64,0.6114864864864865
+DEM_mean,terrain,float64,0.0
+DEM_std,terrain,float64,0.0
+DEM_slope_mean,terrain,float64,0.0
+DEM_slope_std,terrain,float64,0.0
+HansenLoss_mean,Hansen forest change,float64,0.11148648648648649
+HansenLoss_std,Hansen forest change,float64,0.11148648648648649
+HansenLoss_frac_nonzero,Hansen forest change,float64,0.11148648648648649
+JRCwater_mean,JRC surface water,float64,0.5844594594594594
+JRCwater_std,JRC surface water,float64,0.5844594594594594
+JRCwater_frac_nonzero,JRC surface water,float64,0.5844594594594594
+OPT_Coastal_center,EO predictor / derived feature,float64,0.9155405405405406
+OPT_Coastal_mean,EO predictor / derived feature,float64,0.9155405405405406
+OPT_Coastal_std,EO predictor / derived feature,float64,0.9155405405405406
+OPT_Coastal_p10,EO predictor / derived feature,float64,0.9155405405405406
+OPT_Coastal_p90,EO predictor / derived feature,float64,0.9155405405405406
+OPT_Coastal_entropy,EO predictor / derived feature,float64,0.9155405405405406
+OPT_RedEdge1_center,EO predictor / derived feature,float64,0.4155405405405405
+OPT_RedEdge1_mean,EO predictor / derived feature,float64,0.4155405405405405
+OPT_RedEdge1_std,EO predictor / derived feature,float64,0.4155405405405405
+OPT_RedEdge1_p10,EO predictor / derived feature,float64,0.4155405405405405
+OPT_RedEdge1_p90,EO predictor / derived feature,float64,0.4155405405405405
+OPT_RedEdge1_entropy,EO predictor / derived feature,float64,0.4155405405405405
+OPT_RedEdge2_center,EO predictor / derived feature,float64,0.4155405405405405
+OPT_RedEdge2_mean,EO predictor / derived feature,float64,0.4155405405405405
+OPT_RedEdge2_std,EO predictor / derived feature,float64,0.4155405405405405
+OPT_RedEdge2_p10,EO predictor / derived feature,float64,0.4155405405405405
+OPT_RedEdge2_p90,EO predictor / derived feature,float64,0.4155405405405405
+OPT_RedEdge2_entropy,EO predictor / derived feature,float64,0.4155405405405405
+OPT_RedEdge3_center,EO predictor / derived feature,float64,0.4155405405405405
+OPT_RedEdge3_mean,EO predictor / derived feature,float64,0.4155405405405405
+OPT_RedEdge3_std,EO predictor / derived feature,float64,0.4155405405405405
+OPT_RedEdge3_p10,EO predictor / derived feature,float64,0.4155405405405405
+OPT_RedEdge3_p90,EO predictor / derived feature,float64,0.4155405405405405
+OPT_RedEdge3_entropy,EO predictor / derived feature,float64,0.4155405405405405
+OPT_NarrowNIR_center,EO predictor / derived feature,float64,0.4155405405405405
+OPT_NarrowNIR_mean,EO predictor / derived feature,float64,0.4155405405405405
+OPT_NarrowNIR_std,EO predictor / derived feature,float64,0.4155405405405405
+OPT_NarrowNIR_p10,EO predictor / derived feature,float64,0.4155405405405405
+OPT_NarrowNIR_p90,EO predictor / derived feature,float64,0.4155405405405405
+OPT_NarrowNIR_entropy,EO predictor / derived feature,float64,0.4155405405405405
+OPT_NDRE1,EO predictor / derived feature,float64,0.4155405405405405
+OPT_NDRE2,EO predictor / derived feature,float64,0.4155405405405405
+OPT_NDRE3,EO predictor / derived feature,float64,0.4155405405405405
+OPT_RE_slope13,EO predictor / derived feature,float64,0.4155405405405405
+OPT_RE2_SWIR1,EO predictor / derived feature,float64,0.4155405405405405
+DW_class0_frac,Dynamic World,float64,0.4155405405405405
+DW_class1_frac,Dynamic World,float64,0.4155405405405405
+DW_class2_frac,Sentinel-2,float64,0.4155405405405405
+DW_class3_frac,Dynamic World,float64,0.4155405405405405
+DW_class4_frac,Dynamic World,float64,0.4155405405405405
+DW_class5_frac,Dynamic World,float64,0.4155405405405405
+DW_class6_frac,Dynamic World,float64,0.4155405405405405
+DW_class7_frac,Dynamic World,float64,0.4155405405405405
+DW_class8_frac,Dynamic World,float64,0.4155405405405405
+DW_mode,Dynamic World,float64,0.4155405405405405
+DW_label_entropy,Dynamic World,float64,0.4155405405405405
+GEDI_RH98_near500m_median,GEDI,float64,0.9797297297297297
+GEDI_RH98_near500m_max,GEDI,float64,0.9797297297297297
+GEDI_RH98_near500m_n,GEDI,float64,0.527027027027027
+L9_Coastal_center,Landsat 9,float64,0.8783783783783784
+L9_Coastal_mean,Landsat 9,float64,0.8648648648648649
+L9_Coastal_std,Landsat 9,float64,0.8648648648648649
+L9_Coastal_p10,Landsat 9,float64,0.8648648648648649
+L9_Coastal_p90,Landsat 9,float64,0.8648648648648649
+L9_Coastal_entropy,Landsat 9,float64,0.8648648648648649
+L9_Blue_center,Landsat 9,float64,0.8783783783783784
+L9_Blue_mean,Landsat 9,float64,0.8648648648648649
+L9_Blue_std,Landsat 9,float64,0.8648648648648649
+L9_Blue_p10,Landsat 9,float64,0.8648648648648649
+L9_Blue_p90,Landsat 9,float64,0.8648648648648649
+L9_Blue_entropy,Landsat 9,float64,0.8648648648648649
+L9_Green_center,Landsat 9,float64,0.8783783783783784
+L9_Green_mean,Landsat 9,float64,0.8648648648648649
+L9_Green_std,Landsat 9,float64,0.8648648648648649
+L9_Green_p10,Landsat 9,float64,0.8648648648648649
+L9_Green_p90,Landsat 9,float64,0.8648648648648649
+L9_Green_entropy,Landsat 9,float64,0.8648648648648649
+L9_Red_center,Landsat 9,float64,0.8783783783783784
+L9_Red_mean,Landsat 9,float64,0.8648648648648649
+L9_Red_std,Landsat 9,float64,0.8648648648648649
+L9_Red_p10,Landsat 9,float64,0.8648648648648649
+L9_Red_p90,Landsat 9,float64,0.8648648648648649
+L9_Red_entropy,Landsat 9,float64,0.8648648648648649
+L9_NIR_center,Landsat 9,float64,0.8783783783783784
+L9_NIR_mean,Landsat 9,float64,0.8648648648648649
+L9_NIR_std,Landsat 9,float64,0.8648648648648649
+L9_NIR_p10,Landsat 9,float64,0.8648648648648649
+L9_NIR_p90,Landsat 9,float64,0.8648648648648649
+L9_NIR_entropy,Landsat 9,float64,0.8648648648648649
+L9_SWIR1_center,Landsat 9,float64,0.8783783783783784
+L9_SWIR1_mean,Landsat 9,float64,0.8648648648648649
+L9_SWIR1_std,Landsat 9,float64,0.8648648648648649
+L9_SWIR1_p10,Landsat 9,float64,0.8648648648648649
+L9_SWIR1_p90,Landsat 9,float64,0.8648648648648649
+L9_SWIR1_entropy,Landsat 9,float64,0.8648648648648649
+L9_SWIR2_center,Landsat 9,float64,0.8783783783783784
+L9_SWIR2_mean,Landsat 9,float64,0.8648648648648649
+L9_SWIR2_std,Landsat 9,float64,0.8648648648648649
+L9_SWIR2_p10,Landsat 9,float64,0.8648648648648649
+L9_SWIR2_p90,Landsat 9,float64,0.8648648648648649
+L9_SWIR2_entropy,Landsat 9,float64,0.8648648648648649
+L9_NDVI,Landsat 9,float64,0.8648648648648649
+L9_NDMI,Landsat 9,float64,0.8648648648648649
+L9_NBR,Landsat 9,float64,0.8648648648648649
+L9_MNDWI,Landsat 9,float64,0.8648648648648649
+L9_EVI,Landsat 9,float64,0.8648648648648649
+L9_SAVI,Landsat 9,float64,0.8648648648648649
+L9_GNDVI,Landsat 9,float64,0.8648648648648649

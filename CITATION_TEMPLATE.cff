@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated RSASE article."
+title: "Sundarbans mangrove community reorganization: reproducibility package"
+type: software
+authors:
+  - family-names: "TO-BE-COMPLETED"
+    given-names: "TO-BE-COMPLETED"
+version: "1.0"
+date-released: "2026-10-11"
+repository-code: "TO-BE-ADDED"
+doi: "TO-BE-ADDED"

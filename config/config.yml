@@ -1,0 +1,20 @@
+random_seed: 42
+crs_analysis: "EPSG:32645"
+model_years: [2010, 2012, 2014, 2016, 2020, 2024]
+field_benchmark_years: [2010, 2020, 2024]
+species:
+  - Sundri
+  - Gewa
+  - Goran
+  - Passur
+  - Kankra
+  - Keora
+  - Baen
+  - Singra
+  - Khalshi
+  - Amur
+coarse_clusters: 2
+fine_clusters: 4
+spatial_blocks: [3, 5, 10]
+full_feature_min_overall_availability: 0.50
+harmonized_feature_min_availability_each_year: 0.80
